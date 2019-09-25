@@ -24,7 +24,7 @@ sleep 1
 echo " "
 echo " "
 echo $r "╭╼━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╾╮"
-echo $r "│             $g MENU SOAL        $r │"
+echo $r "│ $g MENU SOAL        $r │"
 echo $r "│                                 $r │"
 echo $r "│ $p 01. $b MATEMATIKA            $r │"      
 echo $r "│ $c 02. $g ILMU PENGETAHUAN ALAM $r │"
